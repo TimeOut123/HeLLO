@@ -1,0 +1,30 @@
+<resources>
+    <!--login.xml登录界面-->
+    <string name="app_name">新闻资讯</string>
+    <string name="login">登录界面</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="usernameE">请输入用户名称</string>
+    <string name="passwordE">请输入密码</string>
+    <string name="rememberPwd">记住密码</string>
+    <string name="buttonOk">登录</string>
+    <string name="buttonCancel">重置</string>
+    <string name="registerView">注册用户</string>
+    <string name="forget">忘记密码</string>
+    <!--register.xml注册界面-->
+    <string name="register">注册界面</string>
+    <string name="buttonRegister">注册</string>
+    <string name="sex">性别</string>
+    <string name="boy">男</string>
+    <string name="girl">女</string>
+    <string name="phone">联系方式</string>
+    <string name="phoneE">请输入联系方式</string>
+    <string name="fragment1">菜单一</string>
+    <string name="fragment2">菜单二</string>
+    <string name="fragment3">菜单三</string>
+    <string name="title1">新闻热点</string>
+    <string name="title2">图片热点</string>
+    <string name="title3">个人界面</string>
+
+
+</resources>
